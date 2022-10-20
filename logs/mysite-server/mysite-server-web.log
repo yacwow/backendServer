@@ -1,0 +1,169 @@
+2022-09-12 18:40:38,388 WARN 3796 [-/127.0.0.1/-/8ms POST /api/upload] nodejs.Error: Invalid filename: 123
+    at checkFile (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-multipart/app.js:76:23)
+    at Busboy.onFile (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/co-busboy/index.js:103:17)
+    at Busboy.emit (node:events:513:28)
+    at Busboy.emit (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (node:events:513:28)
+    at HeaderParser.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (node:events:513:28)
+    at HeaderParser._finish (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at SBMH.emit (node:events:513:28)
+    at SBMH._sbmh_feed (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/streamsearch/lib/sbmh.js:159:14)
+    at SBMH.push (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/streamsearch/lib/sbmh.js:56:14)
+    at HeaderParser.push (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/HeaderParser.js:46:19)
+    at Dicer._oninfo (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/Dicer.js:197:25)
+    at SBMH.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/Dicer.js:127:10)
+status: 400
+pid: 3796
+hostname: haodeMacBook-Pro.local
+
+2022-09-12 18:40:38,390 ERROR 3796 [-/127.0.0.1/-/9ms POST /api/upload] nodejs.Error: Invalid filename: 123
+    at checkFile (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-multipart/app.js:76:23)
+    at Busboy.onFile (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/co-busboy/index.js:103:17)
+    at Busboy.emit (node:events:513:28)
+    at Busboy.emit (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (node:events:513:28)
+    at HeaderParser.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (node:events:513:28)
+    at HeaderParser._finish (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at SBMH.emit (node:events:513:28)
+    at SBMH._sbmh_feed (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/streamsearch/lib/sbmh.js:159:14)
+    at SBMH.push (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/streamsearch/lib/sbmh.js:56:14)
+    at HeaderParser.push (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/HeaderParser.js:46:19)
+    at Dicer._oninfo (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/Dicer.js:197:25)
+    at SBMH.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/Dicer.js:127:10)
+status: 400
+pid: 3796
+hostname: haodeMacBook-Pro.local
+
+2022-09-12 18:45:48,564 WARN 3796 [-/127.0.0.1/-/20ms POST /api/upload] nodejs.Error: Invalid filename: 123
+    at checkFile (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-multipart/app.js:76:23)
+    at Busboy.onFile (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/co-busboy/index.js:103:17)
+    at Busboy.emit (node:events:513:28)
+    at Busboy.emit (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (node:events:513:28)
+    at HeaderParser.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (node:events:513:28)
+    at HeaderParser._finish (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at SBMH.emit (node:events:513:28)
+    at SBMH._sbmh_feed (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/streamsearch/lib/sbmh.js:159:14)
+    at SBMH.push (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/streamsearch/lib/sbmh.js:56:14)
+    at HeaderParser.push (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/HeaderParser.js:46:19)
+    at Dicer._oninfo (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/Dicer.js:197:25)
+    at SBMH.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/Dicer.js:127:10)
+status: 400
+pid: 3796
+hostname: haodeMacBook-Pro.local
+
+2022-09-12 18:45:48,564 ERROR 3796 [-/127.0.0.1/-/21ms POST /api/upload] nodejs.Error: Invalid filename: 123
+    at checkFile (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-multipart/app.js:76:23)
+    at Busboy.onFile (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/co-busboy/index.js:103:17)
+    at Busboy.emit (node:events:513:28)
+    at Busboy.emit (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (node:events:513:28)
+    at HeaderParser.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (node:events:513:28)
+    at HeaderParser._finish (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at SBMH.emit (node:events:513:28)
+    at SBMH._sbmh_feed (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/streamsearch/lib/sbmh.js:159:14)
+    at SBMH.push (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/streamsearch/lib/sbmh.js:56:14)
+    at HeaderParser.push (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/HeaderParser.js:46:19)
+    at Dicer._oninfo (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/Dicer.js:197:25)
+    at SBMH.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/dicer/lib/Dicer.js:127:10)
+status: 400
+pid: 3796
+hostname: haodeMacBook-Pro.local
+
+2022-09-12 18:57:13,206 ERROR 3796 [-/127.0.0.1/-/2ms GET /api/upload/1] nodejs.Error: 
+    at Function.throw (/Users/haochen/Desktop/vue combine/mysite-server-main/app/extend/application.js:8:11)
+    at /Users/haochen/Desktop/vue combine/mysite-server-main/app/middleware/responseFomatter.js:4:24
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+code: 404
+pid: 3796
+hostname: haodeMacBook-Pro.local
+
+2022-09-12 18:57:13,207 ERROR 3796 [-/127.0.0.1/-/12ms GET /api/upload/1] nodejs.Error: 
+    at Function.throw (/Users/haochen/Desktop/vue combine/mysite-server-main/app/extend/application.js:8:11)
+    at /Users/haochen/Desktop/vue combine/mysite-server-main/app/middleware/responseFomatter.js:4:24
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+code: 404
+status: 500
+pid: 3796
+hostname: haodeMacBook-Pro.local
+
+2022-10-20 12:01:20,847 ERROR 3546 [-/127.0.0.1/-/0ms GET /] nodejs.MongooseServerSelectionError: [egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/connection.js:847:32)
+    at Mongoose.createConnection (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/index.js:291:17)
+    at Singleton.createOneClient [as create] (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:82:23)
+    at Singleton.createInstance (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:88:17)
+    at Singleton.initSync (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:31:27)
+    at Singleton.init (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:21:68)
+    at Application.addSingleton (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/egg.js:474:35)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:34:7)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/app.js:4:57)
+    at Hook.configDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:91:9)
+    at Lifecycle.triggerConfigDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:145:14)
+    at Lifecycle.triggerConfigWillLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:139:10)
+    at AppWorkerLoader.loadCustomApp (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/loader/mixin/custom.js:37:20)
+    at AppWorkerLoader.load (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/loader/app_worker_loader.js:35:10)
+    at new Application (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/application.js:66:19)
+    at Object.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-cluster/lib/app_worker.js:23:9)
+message: "[egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 3546
+hostname: 192.168.0.213
+
+2022-10-20 12:05:10,083 ERROR 3624 [-/127.0.0.1/-/0ms GET /] nodejs.MongooseServerSelectionError: [egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/connection.js:847:32)
+    at Mongoose.createConnection (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/index.js:291:17)
+    at Singleton.createOneClient [as create] (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:82:23)
+    at Singleton.createInstance (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:88:17)
+    at Singleton.initSync (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:31:27)
+    at Singleton.init (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:21:68)
+    at Application.addSingleton (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/egg.js:474:35)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:34:7)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/app.js:4:57)
+    at Hook.configDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:91:9)
+    at Lifecycle.triggerConfigDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:145:14)
+    at Lifecycle.triggerConfigWillLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:139:10)
+    at AppWorkerLoader.loadCustomApp (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/loader/mixin/custom.js:37:20)
+    at AppWorkerLoader.load (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/loader/app_worker_loader.js:35:10)
+    at new Application (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/application.js:66:19)
+    at Object.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-cluster/lib/app_worker.js:23:9)
+message: "[egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 3624
+hostname: 192.168.0.213
+
+2022-10-20 12:06:46,978 ERROR 3720 [-/127.0.0.1/-/0ms GET /] nodejs.MongooseServerSelectionError: [egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/connection.js:847:32)
+    at Mongoose.createConnection (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/index.js:291:17)
+    at Singleton.createOneClient [as create] (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:82:23)
+    at Singleton.createInstance (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:88:17)
+    at Singleton.initSync (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:31:27)
+    at Singleton.init (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:21:68)
+    at Application.addSingleton (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/egg.js:474:35)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:34:7)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/app.js:4:57)
+    at Hook.configDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:91:9)
+    at Lifecycle.triggerConfigDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:145:14)
+    at Lifecycle.triggerConfigWillLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:139:10)
+    at AppWorkerLoader.loadCustomApp (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/loader/mixin/custom.js:37:20)
+    at AppWorkerLoader.load (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/loader/app_worker_loader.js:35:10)
+    at new Application (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/application.js:66:19)
+    at Object.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-cluster/lib/app_worker.js:23:9)
+message: "[egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 3720
+hostname: 192.168.0.213
+

@@ -1,0 +1,224 @@
+2022-09-12 18:40:27,077 INFO 3796 [egg:logger] init all loggers with options: {"dir":"/Users/haochen/Desktop/vue combine/mysite-server-main/logs/mysite-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mysite-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-09-12 18:40:27,085 INFO 3796 [egg-multipart] file mode enable
+2022-09-12 18:40:27,085 INFO 3796 [egg-multipart] will save temporary files to "/Users/haochen/Desktop/vue combine/mysite-server-main/app/public/upload_temp", cleanup job cron: "0 30 4 * * *"
+2022-09-12 18:40:27,086 INFO 3796 [egg-mongoose] connecting mongodb://127.0.0.1/mysite
+2022-09-12 18:40:27,132 INFO 3796 [egg-static] starting static serve /static/ -> /Users/haochen/Desktop/vue combine/mysite-server-main/app/public
+2022-09-12 18:40:27,132 WARN 3796 [egg-security] Please use `config.security.csrf = { enable: false }` instead of `config.security.csrf = false`
+2022-09-12 18:40:27,133 INFO 3796 [egg-security] use methodnoallow middleware
+2022-09-12 18:40:27,133 INFO 3796 [egg-security] use noopen middleware
+2022-09-12 18:40:27,133 INFO 3796 [egg-security] use nosniff middleware
+2022-09-12 18:40:27,133 INFO 3796 [egg-security] use xssProtection middleware
+2022-09-12 18:40:27,134 INFO 3796 [egg-security] use xframe middleware
+2022-09-12 18:40:27,134 INFO 3796 [egg-security] use dta middleware
+2022-09-12 18:40:27,134 INFO 3796 [egg-security] compose 6 middlewares into one security middleware
+2022-09-12 18:40:27,149 INFO 3796 [egg:core] dump config after load, 2ms
+2022-09-12 18:40:27,150 INFO 3796 [egg-mongoose] starting...
+2022-09-12 18:40:27,167 INFO 3796 [egg-watcher:application] watcher start success
+2022-09-12 18:40:27,172 INFO 3796 [egg-mongoose] mongodb://127.0.0.1/mysite connected successfully
+2022-09-12 18:40:27,172 INFO 3796 [egg-mongoose] instance[0] start successfully
+2022-09-12 18:40:27,178 INFO 3796 [egg:core] dump config after ready, 2ms
+2022-09-29 16:01:43,207 INFO 25240 [egg:logger] init all loggers with options: {"dir":"/Users/haochen/Desktop/vue combine/mysite-server-main/logs/mysite-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mysite-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-09-29 16:01:43,215 INFO 25240 [egg-multipart] file mode enable
+2022-09-29 16:01:43,215 INFO 25240 [egg-multipart] will save temporary files to "/Users/haochen/Desktop/vue combine/mysite-server-main/app/public/upload_temp", cleanup job cron: "0 30 4 * * *"
+2022-09-29 16:01:43,215 INFO 25240 [egg-mongoose] connecting mongodb://127.0.0.1/mysite
+2022-09-29 16:01:43,270 INFO 25240 [egg-static] starting static serve /static/ -> /Users/haochen/Desktop/vue combine/mysite-server-main/app/public
+2022-09-29 16:01:43,270 WARN 25240 [egg-security] Please use `config.security.csrf = { enable: false }` instead of `config.security.csrf = false`
+2022-09-29 16:01:43,271 INFO 25240 [egg-security] use methodnoallow middleware
+2022-09-29 16:01:43,271 INFO 25240 [egg-security] use noopen middleware
+2022-09-29 16:01:43,272 INFO 25240 [egg-security] use nosniff middleware
+2022-09-29 16:01:43,272 INFO 25240 [egg-security] use xssProtection middleware
+2022-09-29 16:01:43,272 INFO 25240 [egg-security] use xframe middleware
+2022-09-29 16:01:43,272 INFO 25240 [egg-security] use dta middleware
+2022-09-29 16:01:43,272 INFO 25240 [egg-security] compose 6 middlewares into one security middleware
+2022-09-29 16:01:43,289 INFO 25240 [egg:core] dump config after load, 3ms
+2022-09-29 16:01:43,290 INFO 25240 [egg-mongoose] starting...
+2022-09-29 16:01:43,304 INFO 25240 [egg-watcher:application] watcher start success
+2022-09-29 16:01:43,315 INFO 25240 [egg-mongoose] mongodb://127.0.0.1/mysite connected successfully
+2022-09-29 16:01:43,316 INFO 25240 [egg-mongoose] instance[0] start successfully
+2022-09-29 16:01:43,321 INFO 25240 [egg:core] dump config after ready, 2ms
+2022-10-20 12:00:50,821 INFO 3546 [egg:logger] init all loggers with options: {"dir":"/Users/haochen/Desktop/vue combine/mysite-server-main/logs/mysite-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mysite-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-10-20 12:00:50,828 INFO 3546 [egg-multipart] file mode enable
+2022-10-20 12:00:50,828 INFO 3546 [egg-multipart] will save temporary files to "/Users/haochen/Desktop/vue combine/mysite-server-main/app/public/upload_temp", cleanup job cron: "0 30 4 * * *"
+2022-10-20 12:00:50,829 INFO 3546 [egg-mongoose] connecting mongodb://127.0.0.1/mysite
+2022-10-20 12:00:50,877 INFO 3546 [egg-static] starting static serve /static/ -> /Users/haochen/Desktop/vue combine/mysite-server-main/app/public
+2022-10-20 12:00:50,877 WARN 3546 [egg-security] Please use `config.security.csrf = { enable: false }` instead of `config.security.csrf = false`
+2022-10-20 12:00:50,878 INFO 3546 [egg-security] use methodnoallow middleware
+2022-10-20 12:00:50,878 INFO 3546 [egg-security] use noopen middleware
+2022-10-20 12:00:50,879 INFO 3546 [egg-security] use nosniff middleware
+2022-10-20 12:00:50,879 INFO 3546 [egg-security] use xssProtection middleware
+2022-10-20 12:00:50,879 INFO 3546 [egg-security] use xframe middleware
+2022-10-20 12:00:50,879 INFO 3546 [egg-security] use dta middleware
+2022-10-20 12:00:50,879 INFO 3546 [egg-security] compose 6 middlewares into one security middleware
+2022-10-20 12:00:50,895 INFO 3546 [egg:core] dump config after load, 2ms
+2022-10-20 12:00:50,896 INFO 3546 [egg-mongoose] starting...
+2022-10-20 12:00:50,909 INFO 3546 [egg-watcher:application] watcher start success
+2022-10-20 12:01:20,836 ERROR 3546 [egg-mongoose] mongodb://127.0.0.1/mysite disconnected
+2022-10-20 12:01:20,840 ERROR 3546 nodejs.MongooseServerSelectionError: [egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/connection.js:847:32)
+    at Mongoose.createConnection (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/index.js:291:17)
+    at Singleton.createOneClient [as create] (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:82:23)
+    at Singleton.createInstance (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:88:17)
+    at Singleton.initSync (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:31:27)
+    at Singleton.init (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:21:68)
+    at Application.addSingleton (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/egg.js:474:35)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:34:7)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/app.js:4:57)
+    at Hook.configDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:91:9)
+    at Lifecycle.triggerConfigDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:145:14)
+    at Lifecycle.triggerConfigWillLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:139:10)
+    at AppWorkerLoader.loadCustomApp (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/loader/mixin/custom.js:37:20)
+    at AppWorkerLoader.load (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/loader/app_worker_loader.js:35:10)
+    at new Application (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/application.js:66:19)
+    at Object.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-cluster/lib/app_worker.js:23:9)
+message: "[egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 3546
+hostname: 192.168.0.213
+
+2022-10-20 12:01:20,842 ERROR 3546 nodejs.MongooseServerSelectionError: [egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/connection.js:847:32)
+    at Mongoose.createConnection (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/index.js:291:17)
+    at Singleton.createOneClient [as create] (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:82:23)
+    at Singleton.createInstance (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:88:17)
+    at Singleton.initSync (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:31:27)
+    at Singleton.init (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:21:68)
+    at Application.addSingleton (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/egg.js:474:35)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:34:7)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/app.js:4:57)
+    at Hook.configDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:91:9)
+    at Lifecycle.triggerConfigDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:145:14)
+    at Lifecycle.triggerConfigWillLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:139:10)
+    at AppWorkerLoader.loadCustomApp (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/loader/mixin/custom.js:37:20)
+    at AppWorkerLoader.load (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/loader/app_worker_loader.js:35:10)
+    at new Application (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/application.js:66:19)
+    at Object.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-cluster/lib/app_worker.js:23:9)
+message: "[egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 3546
+hostname: 192.168.0.213
+
+2022-10-20 12:01:20,859 INFO 3546 [egg:core] dump config after ready, 9ms
+2022-10-20 12:04:40,057 INFO 3624 [egg:logger] init all loggers with options: {"dir":"/Users/haochen/Desktop/vue combine/mysite-server-main/logs/mysite-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mysite-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-10-20 12:04:40,064 INFO 3624 [egg-multipart] file mode enable
+2022-10-20 12:04:40,064 INFO 3624 [egg-multipart] will save temporary files to "/Users/haochen/Desktop/vue combine/mysite-server-main/app/public/upload_temp", cleanup job cron: "0 30 4 * * *"
+2022-10-20 12:04:40,065 INFO 3624 [egg-mongoose] connecting mongodb://127.0.0.1/mysite
+2022-10-20 12:04:40,110 INFO 3624 [egg-static] starting static serve /static/ -> /Users/haochen/Desktop/vue combine/mysite-server-main/app/public
+2022-10-20 12:04:40,110 WARN 3624 [egg-security] Please use `config.security.csrf = { enable: false }` instead of `config.security.csrf = false`
+2022-10-20 12:04:40,111 INFO 3624 [egg-security] use methodnoallow middleware
+2022-10-20 12:04:40,111 INFO 3624 [egg-security] use noopen middleware
+2022-10-20 12:04:40,112 INFO 3624 [egg-security] use nosniff middleware
+2022-10-20 12:04:40,112 INFO 3624 [egg-security] use xssProtection middleware
+2022-10-20 12:04:40,112 INFO 3624 [egg-security] use xframe middleware
+2022-10-20 12:04:40,112 INFO 3624 [egg-security] use dta middleware
+2022-10-20 12:04:40,112 INFO 3624 [egg-security] compose 6 middlewares into one security middleware
+2022-10-20 12:04:40,127 INFO 3624 [egg:core] dump config after load, 2ms
+2022-10-20 12:04:40,128 INFO 3624 [egg-mongoose] starting...
+2022-10-20 12:04:40,140 INFO 3624 [egg-watcher:application] watcher start success
+2022-10-20 12:05:10,074 ERROR 3624 [egg-mongoose] mongodb://127.0.0.1/mysite disconnected
+2022-10-20 12:05:10,079 ERROR 3624 nodejs.MongooseServerSelectionError: [egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/connection.js:847:32)
+    at Mongoose.createConnection (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/index.js:291:17)
+    at Singleton.createOneClient [as create] (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:82:23)
+    at Singleton.createInstance (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:88:17)
+    at Singleton.initSync (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:31:27)
+    at Singleton.init (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:21:68)
+    at Application.addSingleton (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/egg.js:474:35)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:34:7)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/app.js:4:57)
+    at Hook.configDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:91:9)
+    at Lifecycle.triggerConfigDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:145:14)
+    at Lifecycle.triggerConfigWillLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:139:10)
+    at AppWorkerLoader.loadCustomApp (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/loader/mixin/custom.js:37:20)
+    at AppWorkerLoader.load (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/loader/app_worker_loader.js:35:10)
+    at new Application (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/application.js:66:19)
+    at Object.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-cluster/lib/app_worker.js:23:9)
+message: "[egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 3624
+hostname: 192.168.0.213
+
+2022-10-20 12:05:10,081 ERROR 3624 nodejs.MongooseServerSelectionError: [egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/connection.js:847:32)
+    at Mongoose.createConnection (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/index.js:291:17)
+    at Singleton.createOneClient [as create] (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:82:23)
+    at Singleton.createInstance (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:88:17)
+    at Singleton.initSync (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:31:27)
+    at Singleton.init (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:21:68)
+    at Application.addSingleton (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/egg.js:474:35)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:34:7)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/app.js:4:57)
+    at Hook.configDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:91:9)
+    at Lifecycle.triggerConfigDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:145:14)
+    at Lifecycle.triggerConfigWillLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:139:10)
+    at AppWorkerLoader.loadCustomApp (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/loader/mixin/custom.js:37:20)
+    at AppWorkerLoader.load (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/loader/app_worker_loader.js:35:10)
+    at new Application (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/application.js:66:19)
+    at Object.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-cluster/lib/app_worker.js:23:9)
+message: "[egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 3624
+hostname: 192.168.0.213
+
+2022-10-20 12:05:10,093 INFO 3624 [egg:core] dump config after ready, 8ms
+2022-10-20 12:06:16,947 INFO 3720 [egg:logger] init all loggers with options: {"dir":"/Users/haochen/Desktop/vue combine/mysite-server-main/logs/mysite-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mysite-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-10-20 12:06:16,960 INFO 3720 [egg-multipart] file mode enable
+2022-10-20 12:06:16,960 INFO 3720 [egg-multipart] will save temporary files to "/Users/haochen/Desktop/vue combine/mysite-server-main/app/public/upload_temp", cleanup job cron: "0 30 4 * * *"
+2022-10-20 12:06:16,961 INFO 3720 [egg-mongoose] connecting mongodb://127.0.0.1/mysite
+2022-10-20 12:06:17,004 INFO 3720 [egg-static] starting static serve /static/ -> /Users/haochen/Desktop/vue combine/mysite-server-main/app/public
+2022-10-20 12:06:17,004 WARN 3720 [egg-security] Please use `config.security.csrf = { enable: false }` instead of `config.security.csrf = false`
+2022-10-20 12:06:17,005 INFO 3720 [egg-security] use methodnoallow middleware
+2022-10-20 12:06:17,005 INFO 3720 [egg-security] use noopen middleware
+2022-10-20 12:06:17,006 INFO 3720 [egg-security] use nosniff middleware
+2022-10-20 12:06:17,006 INFO 3720 [egg-security] use xssProtection middleware
+2022-10-20 12:06:17,006 INFO 3720 [egg-security] use xframe middleware
+2022-10-20 12:06:17,006 INFO 3720 [egg-security] use dta middleware
+2022-10-20 12:06:17,006 INFO 3720 [egg-security] compose 6 middlewares into one security middleware
+2022-10-20 12:06:17,023 INFO 3720 [egg:core] dump config after load, 2ms
+2022-10-20 12:06:17,024 INFO 3720 [egg-mongoose] starting...
+2022-10-20 12:06:17,040 INFO 3720 [egg-watcher:application] watcher start success
+2022-10-20 12:06:46,970 ERROR 3720 [egg-mongoose] mongodb://127.0.0.1/mysite disconnected
+2022-10-20 12:06:46,973 ERROR 3720 nodejs.MongooseServerSelectionError: [egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/connection.js:847:32)
+    at Mongoose.createConnection (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/index.js:291:17)
+    at Singleton.createOneClient [as create] (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:82:23)
+    at Singleton.createInstance (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:88:17)
+    at Singleton.initSync (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:31:27)
+    at Singleton.init (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:21:68)
+    at Application.addSingleton (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/egg.js:474:35)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:34:7)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/app.js:4:57)
+    at Hook.configDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:91:9)
+    at Lifecycle.triggerConfigDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:145:14)
+    at Lifecycle.triggerConfigWillLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:139:10)
+    at AppWorkerLoader.loadCustomApp (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/loader/mixin/custom.js:37:20)
+    at AppWorkerLoader.load (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/loader/app_worker_loader.js:35:10)
+    at new Application (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/application.js:66:19)
+    at Object.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-cluster/lib/app_worker.js:23:9)
+message: "[egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 3720
+hostname: 192.168.0.213
+
+2022-10-20 12:06:46,974 ERROR 3720 nodejs.MongooseServerSelectionError: [egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/connection.js:847:32)
+    at Mongoose.createConnection (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/mongoose/lib/index.js:291:17)
+    at Singleton.createOneClient [as create] (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:82:23)
+    at Singleton.createInstance (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:88:17)
+    at Singleton.initSync (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:31:27)
+    at Singleton.init (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/core/singleton.js:21:68)
+    at Application.addSingleton (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/egg.js:474:35)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/lib/mongoose.js:34:7)
+    at module.exports (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-mongoose/app.js:4:57)
+    at Hook.configDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:91:9)
+    at Lifecycle.triggerConfigDidLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:145:14)
+    at Lifecycle.triggerConfigWillLoad (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/lifecycle.js:139:10)
+    at AppWorkerLoader.loadCustomApp (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-core/lib/loader/mixin/custom.js:37:20)
+    at AppWorkerLoader.load (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/loader/app_worker_loader.js:35:10)
+    at new Application (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg/lib/application.js:66:19)
+    at Object.<anonymous> (/Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-cluster/lib/app_worker.js:23:9)
+message: "[egg-mongoose]connect ECONNREFUSED 127.0.0.1:27017"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 3720
+hostname: 192.168.0.213
+
+2022-10-20 12:06:46,986 INFO 3720 [egg:core] dump config after ready, 6ms

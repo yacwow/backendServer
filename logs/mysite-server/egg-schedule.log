@@ -1,0 +1,21 @@
+2022-09-12 18:40:27,181 INFO 3792 [Timer] /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 35372820ms at 2022-09-13 04:30:00.001
+2022-09-12 18:40:27,182 INFO 3792 [Timer] /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 19172819ms at 2022-09-13 00:00:00.001
+2022-09-12 18:40:27,182 INFO 3792 [Timer] /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 19173818ms at 2022-09-13 00:00:01.000
+2022-09-12 18:40:27,085 INFO 3796 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-09-12 18:40:27,085 INFO 3796 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-09-12 18:40:27,085 INFO 3796 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-09-29 16:01:43,325 INFO 25235 [Timer] /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 44896677ms at 2022-09-30 04:30:00.002
+2022-09-29 16:01:43,325 INFO 25235 [Timer] /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 28696675ms at 2022-09-30 00:00:00.000
+2022-09-29 16:01:43,325 INFO 25235 [Timer] /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 28697675ms at 2022-09-30 00:00:01.000
+2022-09-29 16:01:43,214 INFO 25240 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-09-29 16:01:43,214 INFO 25240 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-09-29 16:01:43,214 INFO 25240 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-10-20 12:00:50,828 INFO 3546 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-10-20 12:00:50,828 INFO 3546 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-10-20 12:00:50,828 INFO 3546 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-10-20 12:04:40,064 INFO 3624 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-10-20 12:04:40,064 INFO 3624 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-10-20 12:04:40,064 INFO 3624 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-10-20 12:06:16,960 INFO 3720 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-10-20 12:06:16,960 INFO 3720 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-10-20 12:06:16,960 INFO 3720 [egg-schedule]: register schedule /Users/haochen/Desktop/vue combine/mysite-server-main/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
